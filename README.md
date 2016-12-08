@@ -3,7 +3,8 @@ A personal project on networks and food security.
 
 # Installation + Configuration
 
-This uses [Vagrant](https://www.vagrantup.com/) (and VirtualBox) under the hood. 
+This uses [Vagrant](https://www.vagrantup.com/) (and VirtualBox) under the hood
+to configure and setup the box that'll run the code. 
 
 Start the machine:
 vagrant up
